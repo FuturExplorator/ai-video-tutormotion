@@ -323,18 +323,12 @@ export default function Header({ header }: { header: HeaderType }) {
                 href={(header.brand?.url || "/") as any}
                 className="flex items-center gap-2"
               >
-                {header.brand?.logo?.src && (
-                  <img
-                    src={header.brand.logo.src}
-                    alt="ImagetoPrompt"
-                    style={{ width: '150px' }}
-                  />
-                )}
-                {header.brand?.title && (
-                  <span className="text-xl font-bold">
-                    {header.brand?.title || ""}
-                  </span>
-                )}
+                <div className="bg-purple-600 text-white p-1.5 rounded-lg shadow-sm">
+                  <Icon name="Video" className="w-5 h-5" />
+                </div>
+                <span className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-indigo-600">
+                  TutorMotion
+                </span>
               </Link>
               <Sheet>
                 <SheetTrigger asChild>
@@ -349,18 +343,12 @@ export default function Header({ header }: { header: HeaderType }) {
                         href={(header.brand?.url || "/") as any}
                         className="flex items-center gap-2"
                       >
-                        {header.brand?.logo?.src && (
-                          <img
-                            src={header.brand.logo.src}
-                            alt="ImagetoPrompt"
-                            style={{ width: '150px' }}
-                          />
-                        )}
-                        {header.brand?.title && (
-                          <span className="text-xl font-bold">
-                            {header.brand?.title || ""}
-                          </span>
-                        )}
+                        <div className="bg-purple-600 text-white p-1.5 rounded-lg shadow-sm">
+                          <Icon name="Video" className="w-5 h-5" />
+                        </div>
+                        <span className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-indigo-600">
+                          TutorMotion
+                        </span>
                       </Link>
                     </SheetTitle>
                   </SheetHeader>

@@ -26,7 +26,7 @@ import { ReactNode } from "react";
 // import * as Io from "react-icons/io"; // Ionicons 4
 // import * as Io5 from "react-icons/io5"; // Ionicons 5
 // import * as Lia from "react-icons/lia"; // Icons8 Line Awesome
-// import * as Lu from "react-icons/lu"; // Lucide Icons
+import * as Lu from "react-icons/lu"; // Lucide Icons
 
 // import * as Rx from "react-icons/rx"; // Radix Icons
 // import * as Si from "react-icons/si"; // Simple Icons
@@ -58,7 +58,7 @@ const iconPackages: { [key: string]: any } = {
   // Io,
   // Io5,
   // Lia,
-  // Lu,
+  Lu,
   // Md,
   // Pi,
   Ri,

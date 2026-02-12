@@ -12,34 +12,34 @@
   },
   "seo": {
     "home": {
-      "title": "Free AI Pixmind Generator - Create Professional Avatar Videos | Pixmind",
-      "description": "Professional AI Pixmind video platform with avatar cloning, voice cloning, and 175+ language TTS. Create HD Pixmind videos in 1 minute without cameras or actors. Free trial.",
-      "keywords": "Pixmind,AI avatar,avatar video,virtual presenter,avatar cloning,voice cloning,TTS synthesis,text to video,virtual human generator"
+      "title": "Free AI TutorMotion Generator - Create Professional Video Tutorials | TutorMotion",
+      "description": "Professional AI TutorMotion video platform. Create HD tutorial videos in 1 minute without cameras or actors. Free trial.",
+      "keywords": "TutorMotion,AI avatar,tutorial video,virtual presenter,screen to video,voice cloning,TTS synthesis,text to video,virtual human generator"
     },
     "studio": {
-      "title": "Online Pixmind Video Studio - AI Avatar Creator | Pixmind",
-      "description": "Powerful online Pixmind video creation tool. Support text-to-video, multilingual dubbing, custom avatars. Real-time preview, one-click generation for education, marketing, and training.",
-      "keywords": "Pixmind creator,online video generator,AI video tool,text to video,avatar studio,video creation platform"
+      "title": "Online TutorMotion Video Studio - AI Tutorial Creator | TutorMotion",
+      "description": "Powerful online TutorMotion video creation tool. Support screenshot-to-video, multilingual dubbing. Real-time preview, one-click generation for education, marketing, and training.",
+      "keywords": "TutorMotion creator,online video generator,AI video tool,screenshot to video,tutorial studio,video creation platform"
     },
     "avatars": {
-      "title": "1000+ AI Pixmind Avatars Library - Free Avatar Templates | Pixmind",
-      "description": "1000+ professional AI avatars for business, education, service, sales, and entertainment. Support custom cloning, create your digital twin from a single photo.",
-      "keywords": "AI avatars,Pixmind library,virtual presenter,avatar templates,custom avatar,avatar cloning"
+      "title": "AI TutorMotion Templates Library - Free Tutorial Templates | TutorMotion",
+      "description": "Professional AI templates for business, education, service, sales, and entertainment.",
+      "keywords": "AI templates,TutorMotion library,virtual presenter,tutorial templates"
     },
     "voice": {
-      "title": "AI Voice Cloning - High-Fidelity Voice Synthesis | Pixmind",
-      "description": "Advanced AI voice cloning technology, replicate voice characteristics with just 5 minutes of audio. Support 175+ languages for avatar dubbing, audiobooks, and customer service.",
+      "title": "AI Voice Cloning - High-Fidelity Voice Synthesis | TutorMotion",
+      "description": "Advanced AI voice cloning technology, replicate voice characteristics with just 5 minutes of audio. Support 175+ languages for tutorial dubbing.",
       "keywords": "voice cloning,AI dubbing,voice synthesis,TTS technology,voice replication,AI voice"
     },
     "pricing": {
-      "title": "Pixmind Video Pricing - Flexible Plans, Free Trial | Pixmind",
-      "description": "Transparent pricing for AI Pixmind videos. Free credits available, pay-as-you-go or subscription plans. Enterprise bulk customization with exclusive discounts, API support.",
-      "keywords": "Pixmind pricing,AI video cost,avatar plans,enterprise custom,API service"
+      "title": "TutorMotion Pricing - Flexible Plans, Free Trial | TutorMotion",
+      "description": "Transparent pricing for AI TutorMotion videos. Free credits available, pay-as-you-go or subscription plans.",
+      "keywords": "TutorMotion pricing,AI video cost,tutorial plans,enterprise custom,API service"
     },
     "blog": {
-      "title": "Pixmind Case Studies & Tutorials - AI Video Guide | Pixmind",
-      "description": "Pixmind application cases, creation tutorials, and industry solutions. Covering education, e-commerce, corporate communication, and customer service AI.",
-      "keywords": "Pixmind cases,AI video tutorial,avatar applications,industry solutions,creation guide"
+      "title": "TutorMotion Case Studies & Tutorials - AI Video Guide | TutorMotion",
+      "description": "TutorMotion application cases, creation tutorials, and industry solutions.",
+      "keywords": "TutorMotion cases,AI video tutorial,tutorial applications,industry solutions,creation guide"
     }
   },
   "landing": {
@@ -50,13 +50,13 @@
       "start_creating": "Start Creating",
       "join_discord": "Join Discord",
       "showcase_title": "Core Features Showcase",
-      "showcase_subtitle": "Experience the power of AI Pixmind technology",
+      "showcase_subtitle": "Experience the power of AI TutorMotion technology",
       "explore_more": "Explore More AI Features",
       "video_showcases": {
         "digital_anchor": {
           "title": "AI Digital Anchor",
           "description": "Realistic digital anchor supporting multilingual broadcasting",
-          "category": "Pixmind"
+          "category": "TutorMotion"
         },
         "avatar_clone": {
           "title": "Avatar Clone Demo",
@@ -79,6 +79,90 @@
           "category": "Image Clone"
         }
       }
+    },
+    "testimonials": {
+      "title": "Loved by Creators & Teams",
+      "subtitle": "See what others are creating with TutorMotion",
+      "items": [
+        {
+          "content": "TutorMotion saved me hours of editing time. I just upload screenshots and get a professional tutorial video in minutes.",
+          "author": "Sarah Chen",
+          "role": "Product Manager"
+        },
+        {
+          "content": "The AI animation is surprisingly smooth. It understands exactly where to click and how to move the mouse.",
+          "author": "Mike Ross",
+          "role": "UX Designer"
+        },
+        {
+          "content": "Finally, a tool that makes documentation videos easy. No more recording screen 10 times to get it right.",
+          "author": "Jessica Li",
+          "role": "Technical Writer"
+        }
+      ]
+    },
+    "how_it_works": {
+      "title": "Turn Screenshots into Videos in 3 Steps",
+      "subtitle": "No video editing skills required",
+      "steps": [
+        {
+          "title": "Upload Screenshots",
+          "description": "Simply upload your UI screenshots in sequence."
+        },
+        {
+          "title": "AI Animation",
+          "description": "Our AI automatically adds mouse movements and clicks."
+        },
+        {
+          "title": "Export Video",
+          "description": "Download your MP4 tutorial ready to share."
+        }
+      ]
+    },
+    "features": {
+      "title": "Why Choose TutorMotion?",
+      "subtitle": "Everything you need for professional product demos",
+      "items": [
+        {
+          "title": "Screenshot to Video",
+          "description": "Convert static images into fluid video narratives."
+        },
+        {
+          "title": "Smart Cursor",
+          "description": "AI simulates natural human mouse movements."
+        },
+        {
+          "title": "Instant Export",
+          "description": "Get high-quality MP4 videos in seconds."
+        },
+         {
+          "title": "No Recording",
+          "description": "Forget about setting up recording software."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Got questions? We've got answers.",
+      "items": [
+        {
+          "question": "Is it really free?",
+          "answer": "Yes, we offer a free tier with daily credits. You can upgrade for more high-quality generations."
+        },
+        {
+          "question": "Can I edit the video?",
+          "answer": "Currently, our AI handles the animation automatically. We are working on adding more editing controls soon."
+        },
+        {
+          "question": "What formats are supported?",
+          "answer": "We support PNG and JPG screenshots. The output video is in standard MP4 format."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Transform Your Documentation?",
+      "subtitle": "Join thousands of creators making tutorials with TutorMotion today.",
+      "button": "Start Creating for Free"
     }
   },
   "user": {
@@ -215,7 +299,7 @@
   },
   "my_orders": {
     "title": "My Orders",
-    "description": "orders paid with Pixmind.",
+    "description": "orders paid with TutorMotion.",
     "no_orders": "No orders found",
     "tip": "",
     "activate_order": "Activate Order",
@@ -381,7 +465,7 @@
   },
   "blog": {
     "title": "Blog & Tutorials",
-    "description": "News, resources, and updates about Pixmind",
+    "description": "News, resources, and updates about TutorMotion",
     "read_more_text": "Read More",
     "subtitle": "Learn about AI image prompts, tips, and best practices",
     "category_tutorial": "Tutorial",
@@ -474,7 +558,7 @@
     "edit_invite_link": "Edit Invite Link",
     "copy_invite_link": "Copy Invite Link",
     "invite_code": "Invite Code",
-    "invite_tip": "Invite 1 friend to buy Pixmind credits, reward $50.",
+    "invite_tip": "Invite 1 friend to buy TutorMotion credits, reward $50.",
     "invite_balance": "Invite Reward Balance",
     "total_invite_count": "Total Invite Count",
     "total_paid_count": "Total Paid Count",
@@ -482,7 +566,7 @@
     "update_invite_code": "Set Invite Code",
     "update_invite_code_tip": "Input your custom invite code",
     "update_invite_button": "Save",
-    "no_orders": "You can't invite others before you bought Pixmind credits",
+    "no_orders": "You can't invite others before you bought TutorMotion credits",
     "no_affiliates": "You're not allowed to invite others, please contact us to apply for permission.",
     "table": {
       "invite_time": "Invite Time",
@@ -500,7 +584,7 @@
     "submit": "Submit",
     "loading": "Submitting...",
     "contact_tip": "Other ways to contact us",
-    "rating_tip": "How do you feel about Pixmind?",
+    "rating_tip": "How do you feel about TutorMotion?",
     "placeholder": "Leave your words here..."
   },
   "ai_image": {

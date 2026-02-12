@@ -12,34 +12,34 @@
   },
   "seo": {
     "home": {
-      "title": "免费图像转提示词生成器 - AI图片提示词工具 | Pixmind",
-      "description": "最强大的AI图像提示词生成器。即时将任何图像转换为详细提示词,完美支持Midjourney、DALL-E、Stable Diffusion等平台。",
-      "keywords": "图像转提示词,AI提示词生成器,图片提示词,Midjourney,DALL-E,Stable Diffusion,文本转提示词"
+      "title": "免费教程生成器 - AI视频教程工具 | TutorMotion",
+      "description": "强大的AI TutorMotion视频平台。1分钟创建高清教程视频，无需相机或演员。免费试用。",
+      "keywords": "TutorMotion,AI教程,教程视频,虚拟主讲人,截图转视频,语音克隆,TTS合成,文生视频"
     },
     "studio": {
-      "title": "AI图像生成工作室 - 文本转图像工具 | Pixmind",
-      "description": "强大的在线AI图像生成工具。支持文本转图像、提示词增强、多模型选择。实时预览,一键生成,适用于艺术创作、设计、营销等场景。",
-      "keywords": "AI图像生成,文本转图像,提示词工具,图像生成器,AI艺术创作"
+      "title": "在线 TutorMotion 视频工作室 - AI 教程创作 | TutorMotion",
+      "description": "强大的在线 TutorMotion 视频创作工具。支持截图转视频、多语言配音。实时预览，一键生成，适用于教育、营销和培训。",
+      "keywords": "TutorMotion创作,在线视频生成器,AI视频工具,截图转视频,教程工作室,视频创作平台"
     },
     "avatars": {
-      "title": "AI图像模型库 - 多种图像生成模型 | Pixmind",
-      "description": "提供多种专业AI图像生成模型,包括Flux、Stable Diffusion、Midjourney等。支持不同风格和场景的图像生成需求。",
-      "keywords": "AI图像模型,Flux,Stable Diffusion,图像生成,AI艺术"
+      "title": "AI TutorMotion 模板库 - 免费教程模板 | TutorMotion",
+      "description": "提供多种专业AI教程模板。支持不同风格和场景的视频生成需求。",
+      "keywords": "AI模板,TutorMotion库,虚拟主讲人,教程模板"
     },
     "voice": {
-      "title": "AI提示词增强 - 智能提示词优化工具 | Pixmind",
-      "description": "智能AI提示词增强技术,自动优化和丰富您的图像提示词。支持多语言,适用于各种AI图像生成平台。",
-      "keywords": "提示词增强,提示词优化,AI提示词,图像生成,多语言支持"
+      "title": "AI 语音克隆 - 高保真语音合成 | TutorMotion",
+      "description": "智能AI语音克隆技术，只需5分钟音频即可复制声音特征。支持175+语言用于教程配音。",
+      "keywords": "语音克隆,AI配音,语音合成,TTS技术,声音复制,AI语音"
     },
     "pricing": {
-      "title": "定价方案 - 灵活套餐,免费试用 | Pixmind",
-      "description": "透明的AI图像生成价格方案。提供免费额度,按需付费或订阅套餐可选。支持API调用。",
-      "keywords": "AI图像生成价格,提示词生成费用,订阅套餐,API服务"
+      "title": "定价方案 - 灵活套餐,免费试用 | TutorMotion",
+      "description": "透明的AI TutorMotion视频生成价格方案。提供免费额度，按需付费或订阅套餐可选。支持API调用。",
+      "keywords": "AI视频生成价格,教程生成费用,订阅套餐,API服务"
     },
     "blog": {
-      "title": "AI图像提示词教程与案例 - 图像生成指南 | Pixmind",
-      "description": "AI图像提示词技术教程、应用案例、最佳实践。涵盖Midjourney、DALL-E、Stable Diffusion等平台的实战经验分享。",
-      "keywords": "AI提示词教程,图像生成案例,Midjourney教程,提示词技巧"
+      "title": "TutorMotion 案例与教程 - 视频生成指南 | TutorMotion",
+      "description": "TutorMotion 应用案例、创作教程和行业解决方案。",
+      "keywords": "TutorMotion案例,AI视频教程,教程应用,行业解决方案,创作指南"
     }
   },
   "landing": {
@@ -79,6 +79,90 @@
           "category": "图片克隆"
         }
       }
+    },
+    "testimonials": {
+      "title": "深受创作者和团队喜爱",
+      "subtitle": "看看其他人用 TutorMotion 创造了什么",
+      "items": [
+        {
+          "content": "TutorMotion 帮我节省了数小时的剪辑时间。上传截图，几分钟就能得到专业的教程视频。",
+          "author": "Sarah Chen",
+          "role": "产品经理"
+        },
+        {
+          "content": "AI 动画出奇的流畅。它完全理解该在哪里点击，鼠标该如何移动。",
+          "author": "Mike Ross",
+          "role": "UX 设计师"
+        },
+        {
+          "content": "终于有一个工具让制作文档视频变得简单了。再也不用为了录屏重录十几次了。",
+          "author": "Jessica Li",
+          "role": "技术文档工程师"
+        }
+      ]
+    },
+    "how_it_works": {
+      "title": "只需 3 步，截图变视频",
+      "subtitle": "无需任何视频剪辑技能",
+      "steps": [
+        {
+          "title": "上传截图",
+          "description": "按顺序上传您的 UI 界面截图。"
+        },
+        {
+          "title": "AI 自动动画",
+          "description": "我们的 AI 自动添加鼠标移动和点击效果。"
+        },
+        {
+          "title": "导出视频",
+          "description": "下载 MP4 格式的教程视频，随时分享。"
+        }
+      ]
+    },
+    "features": {
+      "title": "为什么选择 TutorMotion？",
+      "subtitle": "专业产品演示所需的一切",
+      "items": [
+        {
+          "title": "截图转视频",
+          "description": "将静态图片转换为流畅的视频叙事。"
+        },
+        {
+          "title": "智能光标",
+          "description": "AI 模拟自然的人类鼠标移动路径。"
+        },
+        {
+          "title": "即时导出",
+          "description": "几秒钟内获得高质量 MP4 视频。"
+        },
+         {
+          "title": "无需录屏",
+          "description": "彻底告别繁琐的录屏软件设置。"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "subtitle": "有疑问？我们为您解答。",
+      "items": [
+        {
+          "question": "真的是免费的吗？",
+          "answer": "是的，我们提供每日免费积分。如果需要更高质量的生成，您可以升级会员。"
+        },
+        {
+          "question": "我可以编辑视频吗？",
+          "answer": "目前 AI 会自动处理动画。我们正在开发更多编辑控制功能，敬请期待。"
+        },
+        {
+          "question": "支持什么格式？",
+          "answer": "我们支持 PNG 和 JPG 截图上传。输出视频为标准的 MP4 格式。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "准备好升级您的文档体验了吗？",
+      "subtitle": "立即加入使用 TutorMotion 制作教程的创作者行列。",
+      "button": "免费开始创作"
     }
   },
   "user": {
@@ -215,7 +299,7 @@
   },
   "my_orders": {
     "title": "我的订单",
-    "description": "在 PixMind 上购买的订单。",
+    "description": "在 TutorMotion 上购买的订单。",
     "no_orders": "未找到订单",
     "tip": "",
     "activate_order": "激活订单",
@@ -381,7 +465,7 @@
   },
   "blog": {
     "title": "博客与教程",
-    "description": "关于 PixMind 的新闻、资源和更新",
+    "description": "关于 TutorMotion 的新闻、资源和更新",
     "read_more_text": "阅读更多",
     "subtitle": "了解AI图片提示词、技巧和最佳实践",
     "category_tutorial": "教程",
@@ -474,7 +558,7 @@
     "edit_invite_link": "编辑邀请链接",
     "copy_invite_link": "复制邀请链接",
     "invite_code": "邀请码",
-    "invite_tip": "每邀请 1 位朋友购买 PixMind，奖励 $50。",
+    "invite_tip": "每邀请 1 位朋友购买 TutorMotion，奖励 $50。",
     "invite_balance": "邀请奖励余额",
     "total_invite_count": "总邀请人数",
     "total_paid_count": "已充值人数",
@@ -482,7 +566,7 @@
     "update_invite_code": "设置邀请码",
     "update_invite_code_tip": "输入你的自定义邀请码",
     "update_invite_button": "保存",
-    "no_orders": "你需要先购买过 PixMind 才能邀请朋友",
+    "no_orders": "你需要先购买过 TutorMotion 才能邀请朋友",
     "no_affiliates": "你暂无邀请朋友的权限，请联系我们申请开通。",
     "table": {
       "invite_time": "邀请时间",
@@ -500,7 +584,7 @@
     "submit": "提交",
     "loading": "提交中...",
     "contact_tip": "其他联系方式",
-    "rating_tip": "您对数字人的看法如何？",
+    "rating_tip": "您对 TutorMotion 的看法如何？",
     "placeholder": "在这里留下您的反馈..."
   },
   "ai_image": {
