@@ -1,0 +1,32 @@
+{
+  "node": {
+    "006ff342a71f86b2fd1bb43b8555fc5b8de867342b": {
+      "workers": {
+        "app/[locale]/(default)/page": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.4.8_@opentelemetry+api@1.9.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fliusir%2Fz-image-video%2FImagePromptTemplate%2Flib%2Fip.ts%22%2C%5B%7B%22id%22%3A%22006ff342a71f86b2fd1bb43b8555fc5b8de867342b%22%2C%22exportedName%22%3A%22getClientIp%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/api/auth/[...nextauth]/route": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.4.8_@opentelemetry+api@1.9.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fliusir%2Fz-image-video%2FImagePromptTemplate%2Flib%2Fip.ts%22%2C%5B%7B%22id%22%3A%22006ff342a71f86b2fd1bb43b8555fc5b8de867342b%22%2C%22exportedName%22%3A%22getClientIp%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/[locale]/(default)/txt-to-image/[model]/page": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.4.8_@opentelemetry+api@1.9.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fliusir%2Fz-image-video%2FImagePromptTemplate%2Flib%2Fip.ts%22%2C%5B%7B%22id%22%3A%22006ff342a71f86b2fd1bb43b8555fc5b8de867342b%22%2C%22exportedName%22%3A%22getClientIp%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/[locale]/(default)/video-effects/page": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.4.8_@opentelemetry+api@1.9.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fliusir%2Fz-image-video%2FImagePromptTemplate%2Flib%2Fip.ts%22%2C%5B%7B%22id%22%3A%22006ff342a71f86b2fd1bb43b8555fc5b8de867342b%22%2C%22exportedName%22%3A%22getClientIp%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[locale]/(default)/page": "rsc",
+        "app/api/auth/[...nextauth]/route": "rsc",
+        "app/[locale]/(default)/txt-to-image/[model]/page": "rsc",
+        "app/[locale]/(default)/video-effects/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "NT+Fg4RUYW3VZ3y3DRiNR5Sn5+IOCwwJKanic9mG8D8="
+}
